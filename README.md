@@ -1,8 +1,6 @@
 🚀 My First Hackathon Experience at UIC! 🚀
 
-Last weekend, I participated in my first-ever hackathon at the University of Illinois Chicago, competing alongside 400+ students and 83 teams! The event was sponsored by John Deere, Grainger, UIC Engineering, CME Group, and Fulcrum, and it was an incredible learning experience.
-
-I teamed up with Tanmay Patel and Rushil Patel to build CodePairHub, a peer-to-peer coding interview platform designed to help students practice mock interviews in real time.
+I participated in my first-ever hackathon at the University of Illinois Chicago, competing alongside 400+ students and 83 teams! The event was sponsored by John Deere, Grainger, UIC Engineering, CME Group, and Fulcrum, and it was an incredible learning experience.
 
 💡 What is CodePairHub?
 
@@ -37,9 +35,3 @@ I teamed up with Tanmay Patel and Rushil Patel to build CodePairHub, a peer-to-p
 🚀 Communication matters. Working in a team taught me how to collaborate effectively under pressure.
 
 🚀 Next Steps? We’d love to expand the project by integrating AI-powered feedback and more advanced matching features!
-
-🏆 Did we win? No. But we walked away with something even more valuable—experience, teamwork, and new skills. Competing against some of the brightest minds at UIC was an honor, and I couldn’t have asked for a better team!
-
-A huge thank you to UIC and all the sponsors for hosting such an incredible event. This was just the beginning, and I’m excited for more hackathons ahead!
-
-#UIC #Hackathon #CodePairHub #SoftwareDevelopment #InterviewPrep #Teamwork #CodingInterviews #Innovation 🚀🎯
